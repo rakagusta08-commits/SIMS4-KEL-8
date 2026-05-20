@@ -32,7 +32,7 @@ Administrator adalah pengendali utama sistem dengan hak akses tak terbatas terha
 
 Dirancang khusus untuk memfasilitasi kegiatan belajar mengajar secara interaktif:
 
-- **Sistem Isolasi Ruang Kelas (Class Selection)**: Saat login, guru diwajibkan untuk "Memilih Kelas". Setelah itu, seluruh data yang muncul (statistik, tugas, absen) hanya berfokus pada kelas tersebut. Ini mencegah tumpang tindih data antar kelas.
+- **Sistem Isolasi Ruang Kelas (Class Selection)**: Saat login, guru diwajibkan untuk "Memilih Kelas". Setelah itu, seluruh data yang muncul (statistik, tugas, absen) hanya berfokus pada kelas tersebut. Ini mencegah tumpang ditinggal data antar kelas.
 - **Dashboard Statistik Cerdas**: Menampilkan grafik dan angka _real-time_ tentang jumlah siswa di kelas, persentase kehadiran hari ini (Hadir, Sakit, Izin, Alpa), serta ringkasan tugas aktif.
 - **Manajemen Jadwal Mengajar**: Mengatur dan melihat jadwal mata pelajaran yang akan diajarkan.
 - **Manajemen Penugasan & Penilaian Digital**: Guru dapat mengunggah instruksi tugas, memantau siapa saja siswa yang sudah mengumpulkan (upload file/link), lalu memberikan koreksi dan nilai secara langsung di dalam aplikasi.
@@ -67,29 +67,36 @@ Proyek ini dibangun menggunakan teknologi web modern untuk menjamin performa, ke
 
 ---
 
-## 4. Screenshot Website
 
-_(Tambahkan dokumentasi visual dari aplikasi yang telah berjalan di bawah ini. Letakkan file gambar di folder `public/images/` atau gunakan URL gambar dari cloud)_
+
+
+## 4. Vidio Demo
+
+(public/images/Vidio Web.mov)
+
+
+
+## 5. Screenshot Website
+
+*(Pastikan file gambar sudah dimasukkan ke dalam folder `public/images/` proyek Laravel kamu dengan nama yang sesuai)*
 
 - **Halaman Portal / Login Utama**:
-    > `![Portal Login]()`
+  ![Portal Login](public/images/PortalLogin.png)
 - **Tampilan Dashboard Administrator**:
-    > `![Dashboard Admin]()`
+  ![Dashboard Admin](public/images/DashboardAdmin.png)
 - **Tampilan Dashboard Guru (Statistik Kelas)**:
-    > `![Dashboard Guru]()`
+  ![Dashboard Guru](public/images/DashbordGuru.png)
 - **Sistem Generator & Scan QR Code**:
-    > `![Sistem QR Code]()`
+  ![Sistem QR Code](public/images/SystemQR.png)
 - **Tampilan Portal Siswa & To-Do List**:
-    > `![Portal Siswa]()`
+  ![Portal Siswa](public/images/DashbordSiswa.png)
 
 ---
 
 ## 5. Profil Tim Pengembang
 
-Aplikasi ini dirancang dan dikembangkan dengan penuh dedikasi oleh
+Aplikasi ini dirancang dan dikembangkan dengan penuh dedikasi oleh kelompok kami:
 
-**Anggota Kelompok**:
-
-1. **Raka Augusta Syabani** _(Silakan tambahkan NIM/NIS/Peran - misal: Backend Developer)_
-2. **Reshad Azhar** _(Silakan tambahkan NIM/NIS/Peran - misal: Frontend Developer)_
-3. **Wanda Nazra** _(Silakan tambahkan NIM/NIS/Peran - misal: System Analyst)_
+1. **Raka Augusta Syabani** - NIS : 2425120700 — *Fullstack Developer (Backend & Frontend)*
+2. **Reshad Azhar** - NIS : 2425120702 — *Frontend Developer*
+3. **Wanda Nazra** - NIS : 2425120704 — *System Analyst*
