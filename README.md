@@ -72,7 +72,7 @@ Proyek ini dibangun menggunakan teknologi web modern untuk menjamin performa, ke
 
 ## 4. Vidio Demo
 
-<video src="public/images/demo-web.mp4" controls width="100%"></video>
+[🎬 Klik di sini untuk memutar Video Demo SIM Sekolah](public/images/demo-web.mp4)
 
 
 
