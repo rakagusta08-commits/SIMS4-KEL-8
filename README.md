@@ -72,7 +72,7 @@ Proyek ini dibangun menggunakan teknologi web modern untuk menjamin performa, ke
 
 ## 4. Vidio Demo
 
-(public/images/Vidio Web.mov)
+<video src="public/images/demo-web.mp4" controls width="100%"></video>
 
 
 
