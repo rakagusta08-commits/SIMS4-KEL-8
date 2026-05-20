@@ -75,6 +75,11 @@ Proyek ini dibangun menggunakan teknologi web modern untuk menjamin performa, ke
 <video src="public/images/demo-web.mp4" controls width="100%"></video>
 
 
+https://github.com/user-attachments/assets/6e90b972-7ef3-4e5d-bb31-f6fbdebfafe2
+
+
+
+
 
 ## 5. Screenshot Website
 
